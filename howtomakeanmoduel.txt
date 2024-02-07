@@ -1,0 +1,5 @@
+make folder in moduels named by what is called when you import something
+then add an file inside saying the name of the folder wich the newest moduel is example: v1_
+then in v1 make an file named main.py and add an file named requirements.txt
+in requirements put all the libarys needed and in main.py put the main code
+also make an file named side_files.txt were you put all the other files in the directory that needs to be installed for main.py to work
